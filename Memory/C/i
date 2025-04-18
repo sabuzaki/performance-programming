@@ -1,0 +1,35 @@
+Integer   i 4 00007fff3876e298
+Integer   j 4 00007fff3876e29c
+Integer   k 4 00007fff3876e2a0
+
+Double    d 0.000000 0000000000000008
+Float     f 4 00007fff3876e2a4
+
+int(ptr) *p 4 00007fff3876e290
+
+fred        56 00007fff3876e240
+int fred.a  4 00007fff3876e240
+short fred.s  2 00007fff3876e244
+double fred.d  8 00007fff3876e248
+short fred.s2  2 00007fff3876e250
+double fred.d2  8 00007fff3876e258
+short fred.s3  2 00007fff3876e260
+short fred.s4  2 00007fff3876e262
+short fred.s5  2 00007fff3876e264
+short fred.s6  2 00007fff3876e266
+double fred.d3  8 00007fff3876e268
+short fred.s7  2 00007fff3876e270
+
+tom            16 00007fff3876e278
+int tim.a  4 00007fff3876e278
+short tom.s  2 00007fff3876e27c
+short tom.s2  2 00007fff3876e27e
+short tom.s3  2 00007fff3876e280
+short tom.s4  2 00007fff3876e282
+short tom.s5  2 00007fff3876e284
+
+a              4800 (30x30*8) 00007fff3876cf80
+double a[7][7] 8 00007fff3876d648
+double a[0]    240 00007fff3876cf80
+double a[2]    240 00007fff3876d160
+double a[0][x]    30 00007fff3876d160
