@@ -1,0 +1,11 @@
+Loading intel-20.4/cmkl
+  Loading requirement: intel-license
+Loading intel-20.4/compilers
+  Loading requirement: gcc/10.2.0 intel-20.4/cc intel-20.4/fc
+Loading compiler/latest
+  Loading requirement: tbb/latest compiler-rt/latest oclfpga/latest
+Intel(R) Advisor Command Line Tool
+Copyright (C) 2009-2020 Intel Corporation. All rights reserved.
+advixe: Opening result  0 %                                                    advixe: Opening result  0 % Preparing data for display of survey call tree     advixe: Opening result  2 % Preparing data for display of survey call tree     advixe: Opening result 25 % Preparing data for display of survey call tree     advixe: Opening result 25 % done                                               
+advixe: Preparing frequently used data  0 % done                               advixe: Preparing frequently used data  0 % done                               
+advixe: Preparing frequently used data 100 % done                              slurmstepd: error: *** JOB 6576336 ON r1i7n13 CANCELLED AT 2024-12-01T20:56:57 ***
